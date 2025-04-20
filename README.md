@@ -30,6 +30,7 @@ A simple content-based movie recommendation system built using Python. This proj
    ```bash
    streamlit run app.py
    ```
+Download similarity.pkl from this link (https://drive.google.com/file/d/1CkYZi2SHJDD0Ugg9NeqWsNwLp3HSZckR/view?usp=sharing)
 
  📁 Dataset
 Download the TMDB 5000 Movies dataset from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) and place it in the project folder.
